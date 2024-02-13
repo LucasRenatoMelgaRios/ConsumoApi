@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: peru;
+   
+}
+
+#output{
+    width: 80%;
+    background-color: brown;
+    margin: 0 auto;
+    padding: 40px;
+}
